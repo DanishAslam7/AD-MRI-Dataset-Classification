@@ -1,7 +1,5 @@
 # AD-MRI-Dataset-Classification
-Alzheimer's MRI scan-based classification provides valuable clinical insights and serves as a complementary approach to expression profile-based studies, offering a holistic understanding of disease progression.
-
-## The aim of this task is to classify if a patient, and if so to what degree, has Alzheimer's disease using an MRI scan of the patient brain. In total we are predicting one of four classes those being: ##
+The aim of this task is to classify if a patient, and if so to what degree, has Alzheimer's disease using an MRI scan of the patient brain. In total we are predicting one of four classes those being:
 
 1. Non demented
 2. Very midly demented
